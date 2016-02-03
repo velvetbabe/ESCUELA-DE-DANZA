@@ -1,0 +1,255 @@
+header{
+	width:1360px;
+	height:200px;
+	padding:auto;
+}
+.title{
+	color:#213157;
+	text-transform:uppercase;
+	margin-left:550px;
+	margin-top:60px;
+}
+.lista{
+	list-style: none;
+	position: relative;
+	display: inline-block;
+	margin-left:150px;
+    left:260px;
+    top:30px;
+}
+a:hover{
+	background-color:#cec2e5;
+}
+nav a{
+	text-decoration: none;
+    color:#BFBCBC;
+    margin-right:-30px;
+    }
+ .container7-fluid{
+	margin-top:300px;
+}
+.balletfondo{
+  width:1360px;
+  height:680px;
+  top:-330px;
+  position:relative;
+}
+.contactanos{
+  z-index:99;
+  position:relative;
+  top:-870px;
+  left:120px;
+  color:#1A2A51;
+  font-size:30px;
+}
+.contacto{
+  width:600px;
+  height:50px;
+  border:1px solid #E7E5E5;
+  top:-870px;
+  left:122px;
+  position:relative;
+  z-index:99;
+  margin-top:40px;
+  margin-bottom:20px;
+}
+.namep{
+  color:#E3D7CF;
+  position:relative;
+  z-index:99;
+  top:12px;
+  left:50px;
+}
+.contacticon{
+  width:30px;
+  height:30px;
+  position:relative;
+  z-index:99;
+  top:-10px;
+  left:10px;
+}
+.mail{
+  width:600px;
+  height:50px;
+  border:1px solid #E7E5E5;
+  position:relative;
+  z-index:99;
+  top:-870px;
+  left:122px;
+  margin-bottom:20px;
+}
+.mailp{
+  color:#E3D7CF;
+  position:relative;
+  z-index:99;
+  top:12px;
+  left:50px;
+}
+.mailicon{
+  width:30px;
+  height:30px;
+  position:relative;
+  z-index:99;
+  top:-10px;
+  left:10px;
+}
+.write{
+  width:600px;
+  height:170px;
+  border:1px solid #E7E5E5;
+  position:relative;
+  z-index:99;
+  top:-870px;
+  left:122px;
+}
+.writep{
+  color:#E3D7CF;
+  position:relative;
+  z-index:99;
+  top:12px;
+  left:50px;
+}
+.commenticon{
+  width:30px;
+  height:30px;
+  position:relative;
+  z-index:99;
+  top:-10px;
+  left:10px;
+}
+.bluebarra{
+  background-color:#192951;
+  width:600px;
+  height:50px;
+  z-index:99;
+  position:relative;
+  border-radius:5px;
+  top:-840px;
+  left:120px;
+}
+.enviar{
+  color:#C4C7B9;
+  width:600px;
+  text-transform: uppercase;
+  top:15px;
+  left:260px;
+  z-index:99;
+  position:relative;
+}
+footer{
+  background-color:#192951;
+  width:1360px;
+  height:100px;
+  position: relative;
+  z-index:99;
+  top:-700px;
+}
+.lastp{
+  color:#9EA2B2;
+  font-size:15px;
+  margin-top:-60px;
+  margin-left:30px;
+}
+
+.blackbox{
+	background-color:black;
+	opacity:0.4;
+	width:200px;
+	height:100px;
+	z-index:99;
+	position:relative;
+	top:-200px;
+	left:250px;
+	position: relative;
+	display: inline-block;
+}
+
+.balletfondo{
+  width:1360px;
+  height:680px;
+  top:-330px;
+  position:relative;
+}
+.contactanos{
+  z-index:99;
+  position:relative;
+  top:-870px;
+  left:120px;
+  color:#1A2A51;
+  font-size:30px;
+}
+.contacto{
+  width:600px;
+  height:50px;
+  border:1px solid #E7E5E5;
+  top:-870px;
+  left:122px;
+  position:relative;
+  z-index:99;
+  margin-top:40px;
+  margin-bottom:20px;
+}
+.namep{
+  color:#E3D7CF;
+  position:relative;
+  z-index:99;
+  top:12px;
+  left:50px;
+}
+.contacticon{
+  width:30px;
+  height:30px;
+  position:relative;
+  z-index:99;
+  top:-10px;
+  left:10px;
+}
+.mail{
+  width:600px;
+  height:50px;
+  border:1px solid #E7E5E5;
+  position:relative;
+  z-index:99;
+  top:-870px;
+  left:122px;
+  margin-bottom:20px;
+}
+.mailp{
+  color:#E3D7CF;
+  position:relative;
+  z-index:99;
+  top:12px;
+  left:50px;
+}
+.mailicon{
+  width:30px;
+  height:30px;
+  position:relative;
+  z-index:99;
+  top:-10px;
+  left:10px;
+}
+.write{
+  width:600px;
+  height:170px;
+  border:1px solid #E7E5E5;
+  position:relative;
+  z-index:99;
+  top:-870px;
+  left:122px;
+}
+.writep{
+  color:#E3D7CF;
+  position:relative;
+  z-index:99;
+  top:12px;
+  left:50px;
+}
+.commenticon{
+  width:30px;
+  height:30px;
+  position:relative;
+  z-index:99;
+  top:-10px;
+  left:10px;
+}

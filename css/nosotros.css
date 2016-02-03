@@ -1,0 +1,284 @@
+
+header{
+	padding:auto;
+	width:1330px;
+	height:200px;
+}
+.title{
+	color:#102e55;
+	text-transform:uppercase;
+	font-size:30px;
+	margin-top:60px;
+	margin-left:520px;
+}
+.lista{
+	color:#666666;
+	margin-left:100px;
+	list-style:none;
+	position: relative;
+	display:inline-block;
+	top:40px;
+	left:280px;
+}
+.lista:hover{
+    background-color:yellow;
+}
+nav a{
+	text-decoration:none;
+	color:#666666;	
+}
+.dance1{
+	width:1330px;
+}
+.clearbox{
+	background-color:black;
+	opacity:0.4;
+	width:400px;
+	height:170px;
+	z-index:99;
+	position:relative;
+	top:-370px;
+	left:460px;
+}
+.clearbox:hover{
+	background-color:yellow;
+}
+.about{
+	color:white;
+	position:relative;
+	opacity:80;
+	left:120px;
+	top:40px;
+	bottom:20px;
+	font-size:20px;
+    text-transform:uppercase;
+}
+.aboutp{
+	color:white;
+	position:relative;
+	opacity:80;
+    top:65px;
+    left:4px;
+    font-size:12px;
+    text-align:center;
+}
+
+.container3-fluid{
+	position:relative;
+	z-index:99;
+    left:60px;
+}
+.pilarmain{
+    margin-top:-200px;
+    left:25px;
+    position:relative;
+    z-index:99;
+
+}
+.texturefondo{
+	background-image:url("../img/cubes.png");
+	width:1344px;
+	height:300px;
+	margin-top:-300px;
+	left:-60px;
+	position:relative;
+	z-index:99;
+}
+.pilartext{
+    position:relative;
+    display:inline-block;
+    color:#808080;
+    z-index:99;
+    top:-20px;
+    left:84px;
+}
+.bar{
+	width:230px;
+    position:relative;
+    display:inline-block;
+    z-index:99;
+    top:10px;
+    left:-63px;
+    margin-top:13px;
+    margin-bottom:8px;
+
+}
+.pilarp{
+    position:relative;
+    display:inline-block;
+    color:#C0C0C0;
+    text-align:center;
+    margin-top:8px;
+    z-index:99;
+}
+.instr{
+	color:#000066;
+	font-size:30px;
+	text-transform:uppercase;
+	margin-left:600px;
+	margin-top:50px;
+	font-weight:bold;
+}
+.profesores{
+	width:200px;
+	position:relative;
+	display:inline;
+	margin-right:30px;
+	top:40px;
+}
+.imgprofe{
+	width:200px;
+	height:200px;
+	margin-left:60px;
+	margin-top:60px;
+	margin-bottom:5px; 
+}
+.profesores h1{
+	margin-left:60px;
+	margin-top:20px;
+}
+.profesores p{
+	margin-left:60px;
+	margin-top:10px;
+}
+.background1{
+    background-image:url("../img/cubes.png");
+    width:1330px;
+    height:260px;
+    margin-top:50px;
+}
+.otra{
+	font-style:italic;
+	position:relative;
+	z-index:99;
+	color:#000066;
+	font-size:34px;
+	top:100px;
+	left:420px;
+}
+
+.container7-fluid{
+	margin-top:300px;
+}
+.balletfondo{
+  width:1360px;
+  height:680px;
+  top:-330px;
+  position:relative;
+}
+.contactanos{
+  z-index:99;
+  position:relative;
+  top:-870px;
+  left:120px;
+  color:#1A2A51;
+  font-size:30px;
+}
+.contacto{
+  width:600px;
+  height:50px;
+  border:1px solid #E7E5E5;
+  top:-870px;
+  left:122px;
+  position:relative;
+  z-index:99;
+  margin-top:40px;
+  margin-bottom:20px;
+}
+.namep{
+  color:#E3D7CF;
+  position:relative;
+  z-index:99;
+  top:12px;
+  left:50px;
+}
+.contacticon{
+  width:30px;
+  height:30px;
+  position:relative;
+  z-index:99;
+  top:-10px;
+  left:10px;
+}
+.mail{
+  width:600px;
+  height:50px;
+  border:1px solid #E7E5E5;
+  position:relative;
+  z-index:99;
+  top:-870px;
+  left:122px;
+  margin-bottom:20px;
+}
+.mailp{
+  color:#E3D7CF;
+  position:relative;
+  z-index:99;
+  top:12px;
+  left:50px;
+}
+.mailicon{
+  width:30px;
+  height:30px;
+  position:relative;
+  z-index:99;
+  top:-10px;
+  left:10px;
+}
+.write{
+  width:600px;
+  height:170px;
+  border:1px solid #E7E5E5;
+  position:relative;
+  z-index:99;
+  top:-870px;
+  left:122px;
+}
+.writep{
+  color:#E3D7CF;
+  position:relative;
+  z-index:99;
+  top:12px;
+  left:50px;
+}
+.commenticon{
+  width:30px;
+  height:30px;
+  position:relative;
+  z-index:99;
+  top:-10px;
+  left:10px;
+}
+.bluebarra{
+  background-color:#192951;
+  width:600px;
+  height:50px;
+  z-index:99;
+  position:relative;
+  border-radius:5px;
+  top:-840px;
+  left:120px;
+}
+.enviar{
+  color:#C4C7B9;
+  width:600px;
+  text-transform: uppercase;
+  top:15px;
+  left:260px;
+  z-index:99;
+  position:relative;
+}
+footer{
+  background-color:#192951;
+  width:1360px;
+  height:100px;
+  position: relative;
+  z-index:99;
+  top:-700px;
+}
+.lastp{
+  color:#9EA2B2;
+  font-size:15px;
+  margin-top:-60px;
+  margin-left:30px;
+}
